@@ -1,0 +1,7 @@
+# All crawlers (including Meta's facebookexternalhit / meta-externalagent) are allowed.
+User-agent: *
+Allow: /
+
+# After setting your real domain in src/config/business.js, `npm run build`
+# regenerates sitemap.xml. Add its absolute URL here if you wish:
+# Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
